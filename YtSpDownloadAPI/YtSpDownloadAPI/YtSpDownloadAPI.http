@@ -1,0 +1,6 @@
+@YtSpDownloadAPI_HostAddress = http://localhost:5208
+
+GET {{YtSpDownloadAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
